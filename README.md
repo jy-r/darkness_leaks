@@ -2,6 +2,8 @@
 
 Dark vim colorsheme based on this palette 
 
+![palette](https://user-images.githubusercontent.com/23253593/79982837-331a7c00-84a7-11ea-8479-7d9bc534fafc.png)
+
 <div style="background-color: #af005f; width:20px; height:20px;display:inline-block;"></div>
 <div style="background-color: #870087; width:20px; height:20px;display:inline-block;"></div>
 <div style="background-color: #af5f87; width:20px; height:20px;display:inline-block;"></div>
@@ -27,13 +29,11 @@ Dark vim colorsheme based on this palette
 
 ## Installation
 
-*vim-plug*
+with *vim-plug*
 
 `Plug 'jy-r/darkness_leaks'`
 
-or copy file `darkness_leaks.vim`  to your `~/.vim/colors/`
-
-and add to `.vimrc`
+or copy `darkness_leaks.vim` file to your `~/.vim/colors/` and add to `.vimrc`
 
 ```
 colorscheme darkness_leaks
@@ -44,6 +44,6 @@ colorscheme darkness_leaks
 ![img](https://user-images.githubusercontent.com/23253593/79981942-cb176600-84a5-11ea-8e48-8cfe0b9f9e98.png)
 
 
-## Acknowledgementso
+## Acknowledgements
 
 - [https://github.com/noahfrederick/vim-hemisu/](hemisu), which inspired code structure 
