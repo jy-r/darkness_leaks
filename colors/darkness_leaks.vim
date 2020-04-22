@@ -116,9 +116,9 @@ call s:h("Visual",      	{"bg": s:Grey23})
 " Ordered by colour 
 "------------------------------------------------------------------------
 " Tan
-call s:h("Constant",      	{"fg": s:Tan})
-hi! link String           	Constant
-hi! link Character        	Constant
+call s:h("String",      	{"fg": s:Tan, 		"gui": "italic", "cterm": "italic"})
+hi! link Constant           	String	
+hi! link Character        	String	
 
 " Green3
 call s:h("Operator",      	{"fg": s:Green3})
